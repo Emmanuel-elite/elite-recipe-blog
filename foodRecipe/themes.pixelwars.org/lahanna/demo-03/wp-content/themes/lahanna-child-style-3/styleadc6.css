@@ -1,0 +1,48 @@
+/*
+Theme Name:  Lahanna Child Style 3
+Theme URI:   https://themeforest.net/user/pixelwars/portfolio
+Description: Make your modifications to [Lahanna Theme] in this child theme.
+Author:      Pixelwars
+Author URI:  https://themeforest.net/user/pixelwars
+Version:     4.2.5
+Template:    lahanna
+Tags:        blog
+Text Domain: lahanna-child
+*/
+
+
+.top-content {
+    margin-top: -10px;
+	}
+.blog-list:not(.blog-circles) .featured-image {
+    padding-top: 44%;
+	}
+.footer-insta ul li {
+    padding: 0;
+	}
+.tptn_title {
+    font-size: 20px; line-height: 1.3;
+	}
+.widget_categories ul li, 
+.widget_recent_entries ul li, 
+.widget_archive ul li, 
+.widget_pages ul li, 
+.widget_nav_menu ul li, 
+.widget_recent_comments ul li, 
+.widget_product_categories ul li, 
+.widget_meta ul li, 
+.widget_rss ul a.rsswidget {
+    font-size: 20px; line-height: 1.3;
+	}
+.widget .cooked-nutrition-label {
+    font-size: 14px;
+	}
+body .cooked-nutrition-label strong {
+    text-transform: none; letter-spacing: 0;
+	}
+body .cooked-nutrition-label p.cooked-daily-value-text {
+    font-size: 14px;
+	}
+.cooked-recipe-directions .cooked-direction-number {
+    background: #111; font-weight: 400; font-size: 32px;
+	}

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+themes.pixelwars.org	TRUE	/lahanna/	FALSE	1999999999	wp_woocommerce_session_980264b509a4ca5725982addad000cc6	t_3dba5e10374c35ad6a6a62c8e44c08%7C%7C1729172433%7C%7C1729168833%7C%7Ced5171525cbd3d8b5e9f02f483080287
+themes.pixelwars.org	TRUE	/lahanna/	FALSE	1999999999	woocommerce_items_in_cart	1
+themes.pixelwars.org	TRUE	/lahanna/	FALSE	1999999999	woocommerce_cart_hash	40c8bedda32332409ab21fb6dbe3d48d
+
